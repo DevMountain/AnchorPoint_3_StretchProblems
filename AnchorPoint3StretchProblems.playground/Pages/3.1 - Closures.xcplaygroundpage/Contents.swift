@@ -8,7 +8,7 @@
  3. Join all the string objects in the stringsArray into one string using reduce. Make sure spaces are in between each string. Print your result.
  
  ### Black Diamond 💎💎💎
- In one line convert blackDiamondDictionary into a joined string describing Mama, Papa, and Baby bear's porridge temperature. CompactMap, Reduce, and anonymouse closure arguments will be your friend.
+ In one line convert blackDiamondDictionary into a joined string describing Mama, Papa, and Baby bear's porridge temperature. CompactMap, Reduce, and anonymous closure arguments will be your friend.
 */
 
 import Foundation
