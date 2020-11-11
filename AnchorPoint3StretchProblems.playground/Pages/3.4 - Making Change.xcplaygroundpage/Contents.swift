@@ -14,5 +14,3 @@
 
 import Foundation
 
-
-//: [Next](@next)

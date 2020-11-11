@@ -2,8 +2,8 @@
 <playground version='6.0' target-platform='ios' display-mode='rendered'>
     <pages>
         <page name='3.1 - Closures'/>
-        <page name='3.2 - JSONSerialization'/>
-        <page name='3.3 - JSONDecoding'/>
+        <page name='3.2 - Conver to Scientific Notation'/>
+        <page name='3.3 - JSONSerialization'/>
         <page name='3.4 - Making Change'/>
     </pages>
 </playground>

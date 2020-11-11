@@ -1,7 +1,6 @@
 //: [Previous](@previous)
-
 /*:
- # Tuesday Stretch Problem 3.2
+ # Wednesday Stretch Problem 3.3
  ## JSONSerialization
  
  ### Instructions:
